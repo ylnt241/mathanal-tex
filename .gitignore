@@ -29,7 +29,7 @@
 *.bcf
 *.bcf-SAVE-ERROR
 *.blg
-*-blx.aux
+*-blx.aux 
 *-blx.bib
 *.run.xml
 
